@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Prawin
 
-<!--
-**Prawinramesh/Prawinramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pursuing **Artificial Intelligence and Data Science** at **RMK College of Engineering and Technology**  
+💻 Passionate about **Machine Learning, Deep Learning, and Software Development**  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: Java, Python, C++, SQL  
+- **AI/ML**: Machine Learning, Deep Learning  
+- **Databases**: SQL, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Prawin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🚀 Projects
+🔹 [Project Name](Project Link) - Short Description  
+🔹 [Project Name](Project Link) - Short Description  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/prawin-r)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/your-username)  
+
+---
+
+**To Set Up:**  
+📌 Create a repository with your **GitHub username**  
+📌 Add this **README.md** file  
+📌 Commit and push! 🎉  
+
+Let me know if you want any modifications! 🚀
