@@ -22,9 +22,3 @@
 
 ---
 
-**To Set Up:**  
-📌 Create a repository with your **GitHub username**  
-📌 Add this **README.md** file  
-📌 Commit and push! 🎉  
-
-Let me know if you want any modifications! 🚀
